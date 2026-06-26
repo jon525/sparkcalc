@@ -1,0 +1,17 @@
+{
+  "name": "SparkCalc",
+  "short_name": "SparkCalc",
+  "description": "Electrical maths for apprentices",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3e8",
+  "theme_color": "#f6c445",
+  "icons": [
+    {
+      "src": "/spark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
